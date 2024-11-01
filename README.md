@@ -16,8 +16,8 @@
 1. Клонируйте репозиторий и перейдите в папку проекта:
 
    ```bash
-   git clone <URL репозитория>
-   cd product-server-baza-dannih
+   git clone https://github.com/Taratheliberator/laba_on_node_with_database
+   cd laba_on_node_with_database
    ```
 
 2. Установите необходимые пакеты:
